@@ -10,7 +10,12 @@
 ![image](https://github.com/user-attachments/assets/77ef1f23-8795-4dd0-b5a8-67a8537fac29)  
 ![image](https://github.com/user-attachments/assets/474c82a7-6de4-4ad7-9778-afdb0a3792da)  
 база данных при этом тоже обновляется  
-![image](https://github.com/user-attachments/assets/f267e68f-22a7-4a7e-ba4e-91afcf9b6914)
+![image](https://github.com/user-attachments/assets/f267e68f-22a7-4a7e-ba4e-91afcf9b6914)  
+![image](https://github.com/user-attachments/assets/3fc20463-03bd-4d44-a6f4-04cdf7517c94)  
+![image](https://github.com/user-attachments/assets/b245e8e9-ca03-4e6b-9728-59a79081ba87)  
+
+все приложение функционирует
+
 
 
 
